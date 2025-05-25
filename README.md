@@ -1,1 +1,2 @@
-# VIRTUAL_AI_ASSISTANT
+# MedicaAI
+Your AI Health Companion
